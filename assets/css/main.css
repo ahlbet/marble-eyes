@@ -321,7 +321,7 @@ footer {
     footer .lockup .logo {
       height: 50px;
       width: 50px;
-      background-image: url(/assets/img/fb-collages/2.jpg);
+      background-image: url(../img/fb-collages/2.jpg);
       background-size: cover;
       float: left;
       margin-right: 30px; }
