@@ -1,0 +1,35 @@
+.section-contact
+  background-color: $collage-bg-color
+  text-align: center
+
+  .social-icons
+    max-width: 700px
+    margin: 0 auto 50px
+    +display(flex)
+    +justify-content(space-around)
+
+    a
+      +display(block)
+      text-align: center
+      line-height: 42px
+      +transition
+
+      &:hover
+        +transform(scale(1.2))
+
+  .bar
+    width: 250px
+    height: 0px
+    border-top: 4px solid $text-color
+    margin: 0 auto 70px
+
+  .big-link
+    +display(inline-block)
+    font:
+      size: 72px
+      weight: 300
+    line-height: 1
+    margin-bottom: 100px
+
+    @media screen and (max-width: 860px)
+      font-size: 28px
