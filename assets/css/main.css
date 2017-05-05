@@ -249,7 +249,7 @@ header {
   header .logo-wrap .logo {
     height: 50px;
     width: 50px;
-    background-image: url(/assets/img/fb-collages/2.jpg);
+    background-image: url(../img/fb-collages/2.jpg);
     background-size: cover;
     float: left;
     margin: 10px 0 0 30px; }
@@ -309,7 +309,7 @@ header {
       padding-top: 0px; } }
 
 footer {
-  background: url(/assets/img/fb-collages/1.jpg) center center;
+  background: url(../img/fb-collages/1.jpg) center center;
   background-size: cover;
   overflow-x: hidden; }
   footer .lockup {
@@ -377,7 +377,7 @@ footer {
     .about .face-lockup .about-img {
       height: 200px;
       width: 200px;
-      background: url(/assets/img/peter.jpg) center center;
+      background: url(../img/peter.jpg) center center;
       background-size: cover;
       border-radius: 50%;
       text-align: center; }
@@ -416,35 +416,35 @@ footer {
       .alt-section .thumb-container {
         margin: 0 30px; } }
     .alt-section .thumb-container .coll-one {
-      background-image: url(/assets/img/fb-collages/1.jpg);
+      background-image: url(../img/fb-collages/1.jpg);
       background-position: center center;
       background-size: cover; }
     .alt-section .thumb-container .coll-two {
-      background-image: url(/assets/img/fb-collages/2.jpg);
+      background-image: url(../img/fb-collages/2.jpg);
       background-position: center center;
       background-size: cover; }
     .alt-section .thumb-container .coll-three {
-      background-image: url(/assets/img/fb-collages/3.jpg);
+      background-image: url(../img/fb-collages/3.jpg);
       background-position: center center;
       background-size: cover; }
     .alt-section .thumb-container .coll-four {
-      background-image: url(/assets/img/fb-collages/4.jpg);
+      background-image: url(../img/fb-collages/4.jpg);
       background-position: center center;
       background-size: cover; }
     .alt-section .thumb-container .coll-five {
-      background-image: url(/assets/img/fb-collages/5.jpg);
+      background-image: url(../img/fb-collages/5.jpg);
       background-position: center center;
       background-size: cover; }
     .alt-section .thumb-container .coll-six {
-      background-image: url(/assets/img/fb-collages/6.jpg);
+      background-image: url(../img/fb-collages/6.jpg);
       background-position: center center;
       background-size: cover; }
     .alt-section .thumb-container .coll-seven {
-      background-image: url(/assets/img/fb-collages/7.jpg);
+      background-image: url(../img/fb-collages/7.jpg);
       background-position: center center;
       background-size: cover; }
     .alt-section .thumb-container .coll-eight {
-      background-image: url(/assets/img/fb-collages/8.jpg);
+      background-image: url(../img/fb-collages/8.jpg);
       background-position: center center;
       background-size: cover; }
     .alt-section .thumb-container .thumb-unit {
