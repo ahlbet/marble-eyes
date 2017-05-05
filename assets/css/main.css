@@ -240,7 +240,7 @@ h3, header nav a, header .header-text .kicker, footer .lockup .content-wrap a {
   text-transform: uppercase; }
 
 header {
-  background: url(/assets/img/fb-collages/1.jpg) center bottom;
+  background: url(assets/img/fb-collages/1.jpg) center bottom;
   background-size: cover;
   background-attachment: fixed;
   overflow: hidden;
